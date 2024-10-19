@@ -3,7 +3,7 @@ Intern ID :CT08DS8385
 DURATION: SEPTEMBER 25th, 2024 to OCTOBER 25th, 2024
 DOMAIN: CYBER SECURITY&ETHICAL HACKING
 
-# CODETECH_task-1
+# CODTECH_task-1
 
 ****Password Strength Checker :****
 
